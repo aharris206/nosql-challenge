@@ -1,4 +1,4 @@
-# nosql-challenge • `2023-03-16T22:26−07:00`
+# nosql-challenge • `2023-03-16T22:30−07:00 (PDT)`
 
-## Mongo Imports
+## Mongo Import
 - `mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json`
